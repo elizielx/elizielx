@@ -69,7 +69,7 @@
       <em>gh stats.</em>
       <br>
    </samp><br>
-   <div align="center">
+   <div align="left">
     <a href="https://github.com/elizielx/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=elizielx&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=c9cbff&ring=c9cbff&stroke=FFFFFFFF)](https://git.io/streak-stats)"/>
     </a> 
