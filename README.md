@@ -65,18 +65,8 @@
 <h2></h2><br>
 
 <p align="left">
-   <samp>
-      <em>gh trophies.</em>
-      <br>
-   </samp><br>
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=elizielx&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
-</p>
-
-<h2></h2><br>
-
-<p align="left">
     <samp>
-      <em>gh metrics.</em>
+      <em>github metrics.</em>
       <br>
    </samp><br>
    <div align="center">
