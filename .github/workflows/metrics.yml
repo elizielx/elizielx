@@ -7,7 +7,8 @@ concurrency:
   group: ${{ github.job }}-${{ github.ref }}
   cancel-in-progress: true
 jobs:
-  github-metrics:
+  github-metrics-general:
+    name: General
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,6 +32,12 @@ jobs:
           plugin_topics: false
           plugin_notable: false
           plugin_discussions: false
+  github-metrics-achievements:
+    name: Achievements
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
