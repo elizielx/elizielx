@@ -61,3 +61,18 @@
    <img height="25px" src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE">
    <img height="25px" src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" alt="GOLAND">
 </p>
+
+<h2></h2><br>
+
+<p align="left">
+   <samp>
+      <em>gh stats.</em>
+      <br>
+   </samp><br>
+   <div align="center">
+    <a href="https://github.com/elizielx/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=elizielx&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=c9cbff&ring=c9cbff&stroke=FFFFFFFF)](https://git.io/streak-stats)"/>
+    </a> 
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=elizielx&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
+   </div>
+</p>
