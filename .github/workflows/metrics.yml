@@ -3,6 +3,9 @@ on:
   schedule: [{ cron: "0 16 * * *" }]
   workflow_dispatch:
   push: { branches: ["master", "main"] }
+concurrency:
+  group: ${{ github.job }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           base_indepth: yes
-          config_order: base.header, languages
+          config_order: base.header, base.activity, base.community, base.repositories, languages
           output_action: gist
           committer_gist: ${{ secrets.GIST_GENERAL }}
           plugin_languages: yes
