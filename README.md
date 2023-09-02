@@ -9,7 +9,14 @@
 <details align="center">
 <summary><samp>read more.</samp></summary>
 
-<br>
+<p align="left">
+    <samp>
+      <em>gh metrics.</em>
+      <br>
+   </samp><br>
+</p>
+
+<h2></h2><br>
 
 <p align="left">
     <samp>
@@ -31,7 +38,7 @@
    <br>
    <img height="25px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS">
    <img height="25px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT">
-   <img height="25px" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)" alt="VITE">
+   <img height="25px" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="VITE">
    <img height="25px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="REACT">
    <img height="25px" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NESTJS">
    <img height="25px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="EXPRESS">
@@ -66,13 +73,8 @@
 
 <p align="left">
    <samp>
-      <em>gh stats.</em>
+      <em>gh trophies.</em>
       <br>
    </samp><br>
-   <div align="left">
-    <a href="https://github.com/elizielx/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=elizielx&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=c9cbff&ring=c9cbff&stroke=FFFFFFFF)](https://git.io/streak-stats)"/>
-    </a> 
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=elizielx&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
-   </div>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=elizielx&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
 </p>
