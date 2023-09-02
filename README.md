@@ -80,4 +80,5 @@
       <br>
    </samp><br>
    <img align="left" width="400" src="https://gist.githubusercontent.com/elizielx/e7b5366719c4e5aaacb3cad1fbc60b5a/raw/ee5123fac88561f0f476f0c698103f6467d8d115/general.svg" alt="GENERAL">
+   <img align="left" width="400" src="https://gist.githubusercontent.com/elizielx/12c98a54fe025a24eda99f98912cd15f/raw/dd903594b1576b3413018d2a939f2f6914fc9617/achievements.svg" alt="ACHIEVEMENTS">
 </p>
