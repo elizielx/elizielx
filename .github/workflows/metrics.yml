@@ -15,13 +15,13 @@ jobs:
     steps:
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           base_indepth: yes
-          config_order: base.header, base.activity, base.community, base.repositories, languages
+          config_order: base.header, base.activity, community, repositories, languages
           output_action: gist
           committer_gist: ${{ secrets.GIST_GENERAL }}
           plugin_languages: yes
@@ -40,7 +40,7 @@ jobs:
     steps:
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
