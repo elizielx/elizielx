@@ -6,17 +6,7 @@
     </samp>
 </p>
 
-<details align="center">
-<summary><samp>read more.</samp></summary>
-
-<p align="left">
-    <samp>
-      <em>gh metrics.</em>
-      <br>
-   </samp><br>
-</p>
-
-<h2></h2><br>
+<br>
 
 <p align="left">
     <samp>
@@ -77,4 +67,14 @@
       <br>
    </samp><br>
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=elizielx&theme=darkhub&no-frame=true&margin-w=20&title=Stars,Followers,Commits,Issues,MultiLanguage,Repositories">
+</p>
+
+<h2></h2><br>
+
+<p align="left">
+    <samp>
+      <em>gh metrics.</em>
+      <br>
+   </samp><br>
+   <img align="left" width="400" src="https://gist.githubusercontent.com/elizielx/e7b5366719c4e5aaacb3cad1fbc60b5a/raw/ee5123fac88561f0f476f0c698103f6467d8d115/general.svg" alt="GENERAL">
 </p>
