@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
     <samp>
       <em>tech stack.</em>
       <br>
@@ -64,7 +64,7 @@
 
 <h2></h2><br>
 
-<p align="left">
+<p align="center">
     <samp>
       <em>github metrics.</em>
       <br>
