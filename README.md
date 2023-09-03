@@ -6,10 +6,9 @@
     </samp>
 </p>
 
-<h2></h2><br>
 
 <details align="left">
-<summary><samp>read more.</samp></summary>
+<summary><samp>more.</samp></summary>
 
 <br>
 
